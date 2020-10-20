@@ -1,0 +1,31 @@
+body{
+	background-image: url("/tugas_8_css/img/Stupa_Borobudur.jpg");
+}
+
+div{
+	width: 950px;
+	height: 360px;
+	overflow: scroll;
+	margin: 10px;
+	text-align: center;
+	line-height: normal;
+	font-size: 21px;
+	background-image: url("/tugas_8_css/img/avocado.jpg");
+	border-style: solid;
+	border-color: black;
+}
+
+.satu{
+	color: blue;
+	text-align: right;
+}
+
+.dua{
+	color: green;
+	text-align: left;
+}
+
+.tiga{
+	color: red;
+	text-align: center;
+}
